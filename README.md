@@ -1,13 +1,26 @@
-### I'm fine, Thank you
+## I'm Fine, Thank You!
 
-[![Visits Badge](https://badges.pufler.dev/visits/Anddd7/Anddd7)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Anddd7)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Anddd7/Anddd7?labelColor=white&color=blue)](https://github.com/Anddd7)
+[![Repos Badge](https://badges.pufler.dev/repos/Anddd7?labelColor=white&color=blue)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/Cloud--Native-DevOps,_CD,_Microservices,_Container-blue?labelColor=white)](https://github.com/Anddd7)
 
----
+- [ ] 🍖 I’m a **Cloud-Native Developer**
+- [ ] 🍩 Move from the current style == "Java - K8S - AWS"
+- [ ] 🌀 To the next stop == "GraalVM - Service Mesh - Hybrid Cloud"
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Anddd7&theme=solarized-light&show_icons=true)
+*Languages:*
 
-- 🍖 I’m a **Cloud-Native Developer**
-- 🍩 Learning **Kubernetes** ...
+[![Repos Badge](https://img.shields.io/badge/Kotlin-JVM-blue?logo=kotlin&labelColor=white)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/Java-Spring-blue?logo=java&labelColor=gray)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/Golang-Starter-blue?logo=go&labelColor=white)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/Typescript-React-blue?logo=typescript&labelColor=gray)](https://github.com/Anddd7)
 
-![My language](https://github-readme-stats.vercel.app/api/top-langs/?username=Anddd7&layout=compact)
+
+*Certifications:*
+
+[![Repos Badge](https://img.shields.io/badge/Alicloud-ACP-blue?logo=alibabacloud&labelColor=white)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/AWS-SAP-blue?logo=amazonaws&labelColor=gray)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/K8S-CKAD-blue?logo=kubernetes&labelColor=white)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/Tencent-TCA-blue?logo=tencentqq&labelColor=gray)](https://github.com/Anddd7)
+
+----
