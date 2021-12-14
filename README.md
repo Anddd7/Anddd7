@@ -5,8 +5,8 @@
 [![Repos Badge](https://img.shields.io/badge/Cloud--Native-DevOps,_CD,_Microservices,_Container-blue?labelColor=white)](https://github.com/Anddd7)
 
 - [ ] 🍖 I’m a **Cloud-Native Developer**
-- [ ] 🍩 Move from the current style == "Java - K8S - AWS"
-- [ ] 🌀 To the next stop == "GraalVM - Service Mesh - Hybrid Cloud"
+- [ ] 🍩 Currently work with == "Java - K8S - AWS"
+- [ ] 🌀 Looking forward to == "GraalVM - Service Mesh - Hybrid Cloud"
 
 *Languages:*
 
