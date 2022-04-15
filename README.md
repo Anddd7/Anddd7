@@ -13,10 +13,7 @@
 [![Repos Badge](https://img.shields.io/badge/Kotlin-JVM-blue?logo=kotlin&labelColor=white)](https://github.com/Anddd7)
 [![Repos Badge](https://img.shields.io/badge/Java-Spring-blue?logo=java&labelColor=gray)](https://github.com/Anddd7)
 [![Repos Badge](https://img.shields.io/badge/Typescript-React-blue?logo=typescript&labelColor=white)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/JavaScript-Node-blue?logo=javascript&labelColor=gray)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Golang-Basic-blue?logo=go&labelColor=white)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Rust-Basic-blue?logo=rust&labelColor=gray)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Clojure-Basic-blue?logo=clojure&labelColor=white)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/Golang-Basic-blue?logo=go&labelColor=gray)](https://github.com/Anddd7)
 
 *Certifications:*
 
