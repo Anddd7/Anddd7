@@ -17,9 +17,6 @@
 
 *Certifications:*
 
-[![Repos Badge](https://img.shields.io/badge/Alicloud-ACP-blue?logo=alibabacloud&labelColor=white)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/AWS-SAP-blue?logo=amazonaws&labelColor=gray)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/K8S-CKAD-blue?logo=kubernetes&labelColor=white)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Tencent-TCA-blue?logo=tencentqq&labelColor=gray)](https://github.com/Anddd7)
+<img alt='badge_aliyun_acp' src="https://user-images.githubusercontent.com/24785373/169754670-6e55446c-267a-4072-a2bf-418670eb1171.png" width="auto" height="128" /> <img alt='badge_aws_sap' src="https://user-images.githubusercontent.com/24785373/169753696-590a729e-ba3b-405b-b1d3-6ea27d004c75.png" width="auto" height="140" /> <img alt='badge_ckad' src="https://user-images.githubusercontent.com/24785373/169753708-34a0cf82-1343-46c9-b7a5-38c0142f0941.png" width="auto" height="140" /> 
 
 ----
