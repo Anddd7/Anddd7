@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Anddd7/Anddd7?labelColor=white&color=blue)](https://github.com/Anddd7)
 [![Repos Badge](https://badges.pufler.dev/repos/Anddd7?labelColor=white&color=blue)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Cloud--Native-DevOps,_CD,_Microservices,_Container-blue?labelColor=white)](https://github.com/Anddd7)
+[![Repos Badge](https://img.shields.io/badge/Cloud--Native-Developer-blue?labelColor=white)](https://github.com/Anddd7)
 
 - [ ] 🍖 I’m a **Cloud-Native Developer**
 - [ ] 🍩 Currently work with == "Java - K8S - AWS"
@@ -10,10 +10,7 @@
 
 *Languages:*
 
-[![Repos Badge](https://img.shields.io/badge/Kotlin-JVM-blue?logo=kotlin&labelColor=white)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Java-Spring-blue?logo=java&labelColor=gray)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Typescript-React-blue?logo=typescript&labelColor=white)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Golang-Basic-blue?logo=go&labelColor=gray)](https://github.com/Anddd7)
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> <img src="https://img.icons8.com/color/48/000000/golang.png"/> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
 
 *Certifications:*
 
