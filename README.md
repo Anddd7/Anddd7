@@ -8,7 +8,7 @@
 - [ ] 🍩 Currently work with == "Java - K8S - AWS"
 - [ ] 🌀 Looking forward to == "GraalVM - Service Mesh - Hybrid Cloud"
 
-*Languages:*
+*Features of me:*
 
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> <img src="https://img.icons8.com/color/48/000000/golang.png"/> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
 
