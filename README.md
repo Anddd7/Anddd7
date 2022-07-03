@@ -1,6 +1,5 @@
 ## I'm Fine, Thank You!
 
-[![Visits Badge](https://badges.pufler.dev/visits/Anddd7/Anddd7?labelColor=white&color=blue)](https://github.com/Anddd7)
 [![Repos Badge](https://badges.pufler.dev/repos/Anddd7?labelColor=white&color=blue)](https://github.com/Anddd7)
 [![Repos Badge](https://img.shields.io/badge/Cloud--Native-Developer-blue?labelColor=white)](https://github.com/Anddd7)
 
