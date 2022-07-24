@@ -1,7 +1,9 @@
 ## I'm Fine, Thank You!
 
-[![Repos Badge](https://badges.pufler.dev/repos/Anddd7?labelColor=white&color=blue)](https://github.com/Anddd7)
-[![Repos Badge](https://img.shields.io/badge/Cloud--Native-Developer-blue?labelColor=white)](https://github.com/Anddd7)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anddd7" alt="views" />
+</p>
+
 
 - [ ] 🍖 I’m a **Cloud-Native Developer**
 - [ ] 🍩 Currently work with == "Java - K8S - AWS"
