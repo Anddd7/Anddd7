@@ -6,8 +6,8 @@
 
 
 - [ ] 🍖 I’m a **Cloud-Native Developer**
-- [ ] 🍩 Currently work with == "Java - K8S - AWS"
-- [ ] 🌀 Looking forward to == "GraalVM - Service Mesh - Hybrid Cloud"
+- [ ] 🍩 Major tech stack == "Golang - K8S - AWS"
+- [ ] 🌀 Also keep learning == "IaC - K8S-as-OS - Hybrid/Multi Cloud"
 
 *Skills & Tools:*
 
