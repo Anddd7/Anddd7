@@ -7,7 +7,7 @@
 
 - [ ] 🍖 I’m a **Cloud-Native Developer**
 - [ ] 🍩 Major tech stack == "Golang - K8S - AWS"
-- [ ] 🌀 Also keep learning == "IaC - K8S-as-OS - Hybrid/Multi Cloud"
+- [ ] 🌀 Keep learning == "IaC - K8S-as-OS - Hybrid/Multi Cloud"
 
 *Skills & Tools:*
 
