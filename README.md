@@ -10,7 +10,7 @@
 ## Focus Areas
 
 - 🤖 **AI + DevOps** - LLM-powered agents for intelligent automation across the full SDLC
-- 🔄 **Mesh-Shaped Skills** - Cross-domain expertise spanning development, infrastructure, and AI
+- 🔄 **Mesh-Shape Skills** - Cross-domain expertise spanning development, infrastructure, and AI
 - 🏗️ **AI-Native Platforms** - Cloud-native tools and systems powered by intelligent agents
 - ☁️ **Cloud & Infrastructure** - Kubernetes, IaC, and multi-cloud automation (AWS, GCP, Azure)
 
