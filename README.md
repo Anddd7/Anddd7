@@ -1,4 +1,3 @@
-<!-- markdownlint-disable MD033 -->
 # About Me
 
 <p align="center">
