@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=anddd7" alt="views" />
 </p>
 
-**Goal:** Empower the entire SDLC with AI capabilities. Building intelligent agents and AI-native platforms to automate and optimize every stage of the development lifecycle.
+**Current focus:** Agentic Engineering. I build reliable, governed, and reusable agent systems on a platform-engineering foundation, focusing on context and tool orchestration, harnesses, evaluation, and verifiable delivery.
 
 ## Focus Areas
 
@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab"/>
 </div>
 
-- 🤖 **AI + DevOps** - LLM-powered agents for intelligent automation across the full SDLC
-- 🔄 **Mesh-Shape Skills** - Cross-domain expertise spanning development, infrastructure, and AI
-- 🏗️ **AI-Native Platforms** - Cloud-native tools and systems powered by intelligent agents
-- ☁️ **Cloud & Infrastructure** - Kubernetes, IaC, and multi-cloud automation (AWS, GCP, Azure)
+- 🤖 **Agentic Engineering** - Harnesses, context and tool orchestration, multi-agent collaboration, evaluation, and verification
+- 🏗️ **Platform Engineering** - Cloud-native platforms, Kubernetes, GitOps, and automation as the foundation for agent systems
+- 🧠 **Agentic Knowledge Systems** - Brains/PKM and workflows that turn execution into reusable knowledge
+- 🔧 **Engineering Foundations** - Go, Kotlin, TypeScript, cloud infrastructure, and delivery engineering
